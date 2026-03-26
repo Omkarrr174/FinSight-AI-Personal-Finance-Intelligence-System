@@ -38,6 +38,7 @@ Personalized savings and investment guidance
 pip install -r requirements.txt
 streamlit run app.py
 Upload a CSV file in the supported format to start analysis.
+
 🎯 Use Cases
 
 Personal finance tracking
